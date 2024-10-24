@@ -1,4 +1,3 @@
-# I2K202-Paintera
 # I2K2024-Paintera
 
 
