@@ -1,0 +1,26 @@
+{
+  "dataType": "uint8",
+  "compression": {
+    "type": "gzip",
+    "useZlib": false,
+    "level": -1
+  },
+  "blockSize": [
+    64,
+    64,
+    64
+  ],
+  "dimensions": [
+    325,
+    275,
+    150
+  ],
+  "maxNumEntries": -1,
+  "isLabelMultiset": true,
+  "unit": "nanometer",
+  "downsamplingFactors": [
+    2.0,
+    2.0,
+    2.0
+  ]
+}

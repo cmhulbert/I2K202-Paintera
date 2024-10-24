@@ -1,0 +1,14 @@
+{
+  "multiScale": true,
+  "offset": [
+    36004.0,
+    30404.0,
+    108812.0
+  ],
+  "resolution": [
+    16.0,
+    16.0,
+    32.0
+  ],
+  "isLabelMultiset": true
+}

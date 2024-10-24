@@ -1,0 +1,23 @@
+{
+  "dataType": "uint64",
+  "compression": {
+    "type": "gzip",
+    "useZlib": false,
+    "level": -1
+  },
+  "blockSize": [
+    64,
+    64,
+    64
+  ],
+  "dimensions": [
+    325,
+    275,
+    150
+  ],
+  "downsamplingFactors": [
+    2.0,
+    2.0,
+    2.0
+  ]
+}
