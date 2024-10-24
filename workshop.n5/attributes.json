@@ -1,0 +1,291 @@
+{
+  "n5": "4.0.0",
+  "paintera": {
+    "globalTransform": [
+      0.39824905642499775,
+      0.0,
+      0.0,
+      -17127.91091006971,
+      0.0,
+      0.39824905642499775,
+      0.0,
+      -14809.062055703054,
+      0.0,
+      0.0,
+      0.39824905642499775,
+      -45319.893128069714
+    ],
+    "windowProperties": {
+      "width": 1469,
+      "height": 916,
+      "isFullScreen": false
+    },
+    "crosshairConfig": {
+      "onFocusColor": "#FF0088FF",
+      "offFocusColor": "#FFFFFF80",
+      "isVisible": true
+    },
+    "orthoSliceConfig": {
+      "enabled": true,
+      "showTopLeft": true,
+      "showTopRight": true,
+      "showBottomLeft": true,
+      "opacity": 0.5742971887550201,
+      "shading": 0.1
+    },
+    "navigationConfig": {
+      "allowRotations": true,
+      "buttonRotationSpeeds": {
+        "slow": 0.5,
+        "regular": 5.0,
+        "fast": 45.0
+      }
+    },
+    "viewer3DConfig": {
+      "affine": [
+        8.252185316917591E-5,
+        -1.1182518819623249E-4,
+        -1.6092275412573644E-4,
+        18.90651905235143,
+        1.3220979824122127E-4,
+        -9.711143750842772E-5,
+        1.3528044838435557E-4,
+        -17.562672506509763,
+        -1.4464292156739147E-4,
+        -1.5256263550074713E-4,
+        3.1842255738648944E-5,
+        7.915316896453478
+      ],
+      "areMeshesEnabled": true,
+      "background": "#000000FF",
+      "showBlockBoundaries": false,
+      "rendererBlockSize": 16,
+      "numElementsPerFrame": 10000,
+      "frameDelayMsec": 20,
+      "sceneUpdateDelayMsec": 250
+    },
+    "screenScalesConfig": {
+      "scales": [
+        0.5,
+        0.25
+      ]
+    },
+    "scaleBarOverlayConfig": {
+      "overlayFont": {
+        "name": "System Regular",
+        "size": 18.0
+      },
+      "foregroundColor": "#FFFFFFFF",
+      "backgroundColor": "#00000088",
+      "isShowing": false,
+      "targetScaleBarLength": 200.0
+    },
+    "bookmarkConfig": {
+      "bookmarks": [
+        {
+          "globalTransform": [
+            0.07536712948478289,
+            0.0,
+            0.0,
+            -3030.464513899385,
+            0.0,
+            0.07536712948478289,
+            0.0,
+            -2596.212813590921,
+            0.0,
+            0.0,
+            0.07536712948478289,
+            -8563.483322019805
+          ],
+          "viewer3DTransform": [
+            1.0174078482841417E-5,
+            0.0,
+            0.0,
+            -0.5,
+            0.0,
+            1.0174078482841417E-5,
+            0.0,
+            -0.3245581906418826,
+            0.0,
+            0.0,
+            1.0174078482841417E-5,
+            -0.9033818636876966
+          ],
+          "note": "nucleus"
+        },
+        {
+          "globalTransform": [
+            0.39824905642499775,
+            0.0,
+            0.0,
+            -17120.09715711146,
+            0.0,
+            0.39824905642499775,
+            0.0,
+            -14828.581504052341,
+            0.0,
+            0.0,
+            0.39824905642499775,
+            -45299.31790754912
+          ],
+          "viewer3DTransform": [
+            1.0174078482841417E-5,
+            0.0,
+            0.0,
+            -0.5,
+            0.0,
+            1.0174078482841417E-5,
+            0.0,
+            -0.3245581906418826,
+            0.0,
+            0.0,
+            1.0174078482841417E-5,
+            -0.9033818636876966
+          ],
+          "note": "mito"
+        },
+        {
+          "globalTransform": [
+            0.24791834760727371,
+            0.0,
+            0.0,
+            -10635.617855254499,
+            0.0,
+            0.24791834760727371,
+            0.0,
+            -9447.52845386197,
+            0.0,
+            0.0,
+            0.24791834760727371,
+            -28229.599761454087
+          ],
+          "viewer3DTransform": [
+            1.0174078482841417E-5,
+            0.0,
+            0.0,
+            -0.5,
+            0.0,
+            1.0174078482841417E-5,
+            0.0,
+            -0.3245581906418826,
+            0.0,
+            0.0,
+            1.0174078482841417E-5,
+            -0.9033818636876966
+          ],
+          "note": "mito"
+        },
+        {
+          "globalTransform": [
+            0.24791834760727363,
+            0.0,
+            0.0,
+            -10308.673913120689,
+            0.0,
+            0.24791834760727363,
+            0.0,
+            -9355.067225569099,
+            0.0,
+            0.0,
+            0.24791834760727363,
+            -28167.840335960376
+          ],
+          "viewer3DTransform": [
+            1.0174078482841417E-5,
+            0.0,
+            0.0,
+            -0.5,
+            0.0,
+            1.0174078482841417E-5,
+            0.0,
+            -0.3245581906418826,
+            0.0,
+            0.0,
+            1.0174078482841417E-5,
+            -0.9033818636876966
+          ],
+          "note": "mito"
+        }
+      ],
+      "transitionTime": {
+        "millis": 300.0
+      }
+    },
+    "arbitraryMeshConfig": {
+      "isVisible": true,
+      "meshes": []
+    },
+    "menuBarConfig": {
+      "isVisible": true,
+      "mode": "OVERLAY"
+    },
+    "sideBarConfig": {
+      "isVisible": true,
+      "width": 350.0
+    },
+    "toolBarConfig": {
+      "isVisible": true
+    },
+    "statusBarConfig": {
+      "isVisible": true,
+      "mode": "OVERLAY"
+    },
+    "loggingConfig": {
+      "rootLogger": {
+        "level": "INFO"
+      },
+      "isLoggingEnabled": true,
+      "isLoggingToConsoleEnabled": true,
+      "isLoggingToFileEnabled": true,
+      "loggerLevels": {}
+    },
+    "multiBoxOverlayConfig": {
+      "visibility": "ON"
+    },
+    "segmentAnythingConfig": {
+      "serviceUrl": "https://conf-sam-service.janelia.org/"
+    },
+    "sourceInfo": {
+      "sources": [
+        {
+          "type": "org.janelia.saalfeldlab.paintera.state.raw.ConnectomicsRawState",
+          "state": {
+            "backend": {
+              "type": "org.janelia.saalfeldlab.paintera.state.raw.n5.N5BackendRaw",
+              "data": {
+                "uri": "s3://janelia-cosem-datasets/jrc_mus-kidney/jrc_mus-kidney.n5",
+                "dataset": "/em/fibsem-uint8"
+              }
+            },
+            "name": "em-fibsem-uint8",
+            "composite": {
+              "type": "org.janelia.saalfeldlab.paintera.composition.CompositeCopy",
+              "data": {}
+            },
+            "converter": {
+              "min": 0.0,
+              "max": 255.0,
+              "alpha": 1.0,
+              "color": "#FFFFFF"
+            },
+            "interpolation": "NEARESTNEIGHBOR",
+            "isVisible": true,
+            "resolution": [
+              8.0,
+              8.0,
+              8.0
+            ],
+            "offset": [
+              0.0,
+              0.0,
+              0.0
+            ]
+          }
+        }
+      ],
+      "currentSourceIndex": 0,
+      "numSources": 1
+    },
+    "version": "1.5.2-SNAPSHOT"
+  }
+}
